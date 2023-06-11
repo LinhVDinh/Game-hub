@@ -1,6 +1,6 @@
 # game-hub
 
-[![Game Hub Logo](./assets/SIClogo.png)](https://game-hub-eight-sigma.vercel.app/)
+[![Game Hub Logo](../src/assets/SIClogo.png)](https://game-hub-eight-sigma.vercel.app/)
 
 ## Description
 
