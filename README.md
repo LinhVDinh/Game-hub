@@ -1,4 +1,4 @@
-# game-hub
+# Game-hub
 
 [![Game Hub Logo](https://github.com/LinhVDinh/game-hub/blob/master/src/assets/SIClogo.png)](https://game-seknddyyy-linhvdinh.vercel.app)
 
